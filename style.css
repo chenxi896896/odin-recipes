@@ -1,0 +1,60 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: chocolate;
+    color: blue;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h3 {
+    background-color: orange;
+    color: teal;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.description {
+    margin-left: 250px;
+    margin-right: 250px;
+    font-style: italic;
+    text-align: center;
+}
+
+ul,
+ol {
+    color: blue;
+    font-weight: bold;
+    margin-left: 250px;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+div#picture {
+    text-align: center;
+}
+
+.foot {
+    font-style: italic;
+    font-size: 8px;
+    margin-top: 500px;
+    text-align: center;
+    color: pink;
+}
+
+.return {
+    margin-left: 250px;
+    margin-top: 200px;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
